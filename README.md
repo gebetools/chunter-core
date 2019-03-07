@@ -1,0 +1,2 @@
+# chunter-core
+CourseHunters core
